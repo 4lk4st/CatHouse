@@ -15,7 +15,7 @@ services:
     image: 4lk4st/kittygram_backend
     env_file: .env
     volumes:
-      - static:/static
+      - static:/backend_static
       - media:/media
   frontend:
     env_file: .env
