@@ -51,3 +51,10 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+# Об авторе:
+
+Автор проекта - Зайковский Всеволод.
+
+Email для связи - 4lk4st@gmail.com
+
